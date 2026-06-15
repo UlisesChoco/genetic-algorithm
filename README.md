@@ -6,7 +6,7 @@ The goal wasn't to write the most optimized or elegant implementation possible, 
 
 ## Demo
 
-
+<img width="426" height="240" alt="gif" src="https://github.com/user-attachments/assets/5111423e-8c69-47df-8465-fd53420a31a8" />
 
 ## How it works
 
